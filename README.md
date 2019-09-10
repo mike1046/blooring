@@ -1,3 +1,4 @@
+This is booking app for Food and Restaurant.
 ### Install
 
 - Npm : `$ npm install`
